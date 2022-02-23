@@ -13,7 +13,6 @@ public class DoorConstraint : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        GameObject Door();
-        if ()
+        transform.position.z = Mathf.Clamp(transform.position.z, 54.0f, 60.0f);
     }
 }
