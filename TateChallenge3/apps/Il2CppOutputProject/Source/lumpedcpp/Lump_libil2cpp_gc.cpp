@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "S:\TateChallenge3\TateChallenge3\apps\Il2CppOutputProject\IL2CPP\libil2cpp\gc\BoehmGC.cpp"
+#include "S:\TateChallenge3\TateChallenge3\apps\Il2CppOutputProject\IL2CPP\libil2cpp\gc\GCHandle.cpp"
+#include "S:\TateChallenge3\TateChallenge3\apps\Il2CppOutputProject\IL2CPP\libil2cpp\gc\GarbageCollector.cpp"
+#include "S:\TateChallenge3\TateChallenge3\apps\Il2CppOutputProject\IL2CPP\libil2cpp\gc\NullGC.cpp"
+#include "S:\TateChallenge3\TateChallenge3\apps\Il2CppOutputProject\IL2CPP\libil2cpp\gc\WriteBarrier.cpp"
+#include "S:\TateChallenge3\TateChallenge3\apps\Il2CppOutputProject\IL2CPP\libil2cpp\gc\WriteBarrierValidation.cpp"
